@@ -1,0 +1,65 @@
+[
+  {
+    "room": "Noble Suite",
+    "description": "Two bedroom Noble King Suite with a living room, dining area, a kitchen, three bathrooms, a Jacuzzi and terrace.",
+    "price": 600,
+    "area": 170,
+    "breakfast": 10,
+    "max": 5,
+    "images": ["noble-1.jpg", "noble-2.jpg", "noble-3.jpg"]
+  },
+  {
+    "room": "Plaza Suite",
+    "description": "One bedroom Plaza King suite with a living room and a private bathroom.",
+    "price": 300,
+    "breakfast": 10,
+    "area": 60,
+    "max": 3,
+    "images": ["plaza-1.jpg", "plaza-2.jpg", "plaza-3.jpg"]
+  },
+  {
+    "room": "Glory Suite",
+    "description": "Two bedroom Glory King Suite with a living room and two bathrooms.",
+    "price": 400,
+    "area": 70,
+    "breakfast": 10,
+    "max": 5,
+    "images": ["glory-1.jpg", "glory-2.jpg", "glory-3.jpg"]
+  },
+  {
+    "room": "Executive Suite",
+    "description": "One bedroom Executive King Suite with a living room and two bathrooms.",
+    "price": 300,
+    "area": 66,
+    "breakfast": 10,
+    "max": 3,
+    "images": ["executive-1.jpg", "executive-2.jpg", "executive-3.jpg"]
+  },
+  {
+    "room": "Charming Room",
+    "description": "Charming King Room with a private bathroom.",
+    "price": 100,
+    "area": 35,
+    "breakfast": 10,
+    "max": 3,
+    "images": ["charming-1.jpg", "charming-2.jpg", "charming-3.jpg"]
+  },
+  {
+    "room": "Elegant Room",
+    "description": "Elegant king room with a private bathroom",
+    "price": 75,
+    "area": 33,
+    "breakfast": 10,
+    "max": 3,
+    "images": ["elegant-1.jpg", "elegant-2.jpg", "elegant-3.jpg"]
+  },
+  {
+    "room": "Pleasant Room",
+    "description": "Pleasant king room with a private bathroom.",
+    "price": 50,
+    "area": 30,
+    "breakfast": 10,
+    "max": 2,
+    "images": ["pleasant-1.jpg", "pleasant-2.jpg", "pleasant-3.jpg"]
+  }
+]
