@@ -66,7 +66,7 @@ export default function CarouselSmScreen() {
       >
         {rooms.map((room, index) => (
           <div className="room" key={index}>
-            <img src={room.src} alt={`Room ${index + 1}`} loading="lazy" />
+            <img src={room.src} alt={`Room ${index + 1}`} />
             <article>
               <p className="roomName">{room.name}</p>
               <p>
