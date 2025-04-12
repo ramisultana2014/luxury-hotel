@@ -54,6 +54,9 @@ const Wrapper = styled.section`
     }
   }
   @media screen and (max-width: 500px) {
+    .ameneties {
+      font-size: 1rem;
+    }
   }
 `;
 
